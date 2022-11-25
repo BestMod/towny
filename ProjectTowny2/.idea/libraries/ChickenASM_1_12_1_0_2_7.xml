@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ChickenASM-1.12-1.0.2.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mods/1.12.2/ChickenASM-1.12-1.0.2.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
