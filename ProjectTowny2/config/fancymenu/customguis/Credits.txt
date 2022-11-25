@@ -1,3 +1,0 @@
-identifier = Credits
-title =
-allowesc = true

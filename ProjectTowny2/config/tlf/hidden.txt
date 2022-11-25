@@ -1,3 +1,0 @@
-#List of Hidden Players
-gregorioust:false
-moose1002:false
